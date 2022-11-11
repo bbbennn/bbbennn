@@ -9,7 +9,8 @@ will reshape entire industries and help solve the world’s toughest challenges.
 ## 📖 About me
 * 💻 I'm a developer
 * I have 3 years of working experience as a programmer. 
-* I'm passionate about data science automation platform, I genuinely believe that data analysis has to be as simple and fast as it can be.
+* I'm passionate about data science automation platform.
+* I genuinely believe that data analysis has to be as simple and fast as it can be.
 
 - I'm currently pursuing a master's in big data engineering
 - Degree in Computer Engineering with more than 3 years work experiences in software (and IT).
