@@ -6,9 +6,10 @@
 
 ## 📖 About me
 * 💻 I'm a developer
-* I am passionate about big data and I genuinely believe that data analysis has to be as simple and fast as it can be.
+* I have 3 years of working experience as a programmer. 
+* I am passionate about big data and machine learning,I genuinely believe that data analysis has to be as simple and fast as it can be.
 
-- I'm currently studying towards a master's degree in big data engineering
+- I'm currently pursuing a master's in big data engineering
 - Degree in Computer Engineering with more than 3 years work experiences in software (and IT).
 - Fully Competent in Support, Planning and Optimization of deverloper.
 - Fast learner and possess ability to deliver quality. 
@@ -17,7 +18,7 @@
 
 ## 📌 Goal/Objectives
 * To contribute well, use my analytical skills, brings an excellent communication abilities with hands-on experience in building machine learning models with their deployment and used Microsoft PowerBI and Excel to create the business intelligence dashboards with a story to tell. 
-* I am passionate about big data and I genuinely believe that data analysis has to be as simple and fast as it can be.
+* Passionate about Image Processing, Computer Vision and Machine Learning.
 
 ## 👨‍💻 Languages and Tools:
 <table>
