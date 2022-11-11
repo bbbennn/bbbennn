@@ -2,7 +2,7 @@
 <!--img width="100%" height="auto" src="./profile.png" /-->
 
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h2 align="center">B-E-N</h2>
+<h2 align="center">Nice to meet you 👋</h2>
 
 ## 📖 About me
 * 💻 I'm a developer
