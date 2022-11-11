@@ -15,7 +15,7 @@
 - Good team working spirit with can-do attitude and self motivated.
 - Undertake planning and design tasks for both internal & external customers.
 
-## 📖 Goal/Objectives
+## 📌 Goal/Objectives
 * To contribute well, use my analytical skills, brings an excellent communication abilities with hands-on experience in building machine learning models with their deployment and used Microsoft PowerBI and Excel to create the business intelligence dashboards with a story to tell. 
 * I am passionate about big data and I genuinely believe that data analysis has to be as simple and fast as it can be.
 
