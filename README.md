@@ -3,7 +3,8 @@
 
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h2 align="center">Nice to meet you 👋</h2>
-<h3 align="center">I believe the next generation of digital transformation will reshape entire industries <br>and help solve the world’s toughest challenges. </h3>
+<h3 align="center">I believe the next generation of digital transformation <br>
+will reshape entire industries and help solve the world’s toughest challenges. </h3>
 
 ## 📖 About me
 * 💻 I'm a developer
