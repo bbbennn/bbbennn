@@ -12,7 +12,7 @@ will reshape entire industries and help solve the world’s toughest challenges.
 * I'm passionate about data science automation platform.
 * I genuinely believe that data analysis has to be as simple and fast as it can be.
 
-- I'm currently pursuing a master's in big data engineering
+- I'm currently pursuing a master's in big data engineering.
 - Degree in computer engineering with more than 3 years work experiences in software (and IT).
 - Fully competent in support, planning and optimization of deverloper.
 - Fast learner and possess ability to deliver quality. 
