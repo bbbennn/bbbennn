@@ -13,8 +13,8 @@ will reshape entire industries and help solve the world’s toughest challenges.
 * I genuinely believe that data analysis has to be as simple and fast as it can be.
 
 - I'm currently pursuing a master's in big data engineering
-- Degree in Computer Engineering with more than 3 years work experiences in software (and IT).
-- Fully Competent in Support, Planning and Optimization of deverloper.
+- Degree in computer engineering with more than 3 years work experiences in software (and IT).
+- Fully competent in support, planning and optimization of deverloper.
 - Fast learner and possess ability to deliver quality. 
 - Good team working spirit with can-do attitude and self motivated.
 - Undertake planning and design tasks for both internal & external customers.
